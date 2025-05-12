@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Sansation:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
+body {
+    background-color: rgb(81, 191, 241);
+}
+
+.titulo {
+    color: white;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+
+
+}
+
+.paragrafo {
+    font-size: 30px;
+    text-align: justify;
+    font-family: "Sansation", sans-serif;
+
+}
+
+.mensagem {
+    font-size: 20px;
+    font-family: "Sansation", sans-serif;
+    color: yellow;
+}
+
+button {
+    width: 150px;
+    height: 150px;
+    font-size: 20px;
+    font-family: "Sansation", sans-serif;
+
+
+}
+
+.lista {
+    font-size: 20px;
+    margin-bottom: 30px;
+    font-family: "Montserrat", sans-serif;
+    color: yellow;
+    list-style: none;
+
+}
+
+img {
+    border-radius: 20px;
+    width: 20%;
+    margin-bottom: 30px;
+}
+
+
+a {
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: red;
+
+}
+
+.tabela{
+    border: white solid 1px;
+    width: 50%;
+}
+
+.tabela td{
+    border: white solid 1px;
+    color: yellow;
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+    
+}
+
+.tabela th{
+    color: yellow;
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+
+
+}
